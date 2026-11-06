@@ -2,14 +2,15 @@
   "name": "voicetext · TTS Reader",
   "short_name": "voicetext",
   "lang": "en",
-  "start_url": "/voicetext-prod/tts-reader/",
-  "scope": "/voicetext-prod/",
+  "id": "/",
+  "start_url": "/tts-reader/",
+  "scope": "/",
   "display": "standalone",
   "background_color": "#f7f8f4",
   "theme_color": "#234e3b",
   "icons": [
     {
-      "src": "/voicetext-prod/favicon.svg",
+      "src": "/favicon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any"
