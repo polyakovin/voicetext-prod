@@ -1,6 +1,6 @@
 {
   "sourceRepository": "https://github.com/polyakovin/voicetext",
-  "sourceCommit": "d942da1e36c56086a44184eb766d513f5f7d7571",
+  "sourceCommit": "b96368b422f3209d9376178b570e6b534f11ef89",
   "version": "0.1.1",
   "site": "https://voicetext.pro",
   "basePath": "/",
@@ -16,7 +16,7 @@
     "_astro/golos-text-cyrillic-wght-normal.mKek_fSS.woff2",
     "_astro/golos-text-latin-ext-wght-normal.B-I5lbAQ.woff2",
     "_astro/golos-text-latin-wght-normal.BS5oQT7X.woff2",
-    "_astro/index.CEM9uSs9.css",
+    "_astro/index.B8afbsbu.css",
     "_astro/jsx-runtime.qUaZ7Iw2.js",
     "_astro/pdf.C-T3twvL.js",
     "_astro/pdf.worker.min.CIqJB0yW.mjs",
