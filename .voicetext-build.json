@@ -1,6 +1,6 @@
 {
   "sourceRepository": "https://github.com/polyakovin/voicetext",
-  "sourceCommit": "cc9f036745a54b07d814f840d1aaabfe170701f1",
+  "sourceCommit": "4a53cda7ff88bad219dfdda1325a5eb5ae7fbe37",
   "version": "0.1.1",
   "site": "https://voicetext.pro",
   "basePath": "/",
@@ -11,7 +11,7 @@
     "_astro/BrowserTools.BSoCpwGH.js",
     "_astro/GmailDictation.D8qNm6zX.js",
     "_astro/GoogleDocsDictation.Fwiv9KmJ.js",
-    "_astro/Layout.CAau4hfE.css",
+    "_astro/Layout.BXC-5Fp_.css",
     "_astro/MediaTools.BLY_cl9u.js",
     "_astro/SpeechToText.KLqonRCo.js",
     "_astro/TtsReader.BkzZasi2.js",
@@ -23,7 +23,7 @@
     "_astro/golos-text-cyrillic-wght-normal.mKek_fSS.woff2",
     "_astro/golos-text-latin-ext-wght-normal.B-I5lbAQ.woff2",
     "_astro/golos-text-latin-wght-normal.BS5oQT7X.woff2",
-    "_astro/index.BlbHHcKA.css",
+    "_astro/index.DT0B9ZMO.css",
     "_astro/jsx-runtime.B4Qx-PpP.js",
     "_astro/kokoro-C1zGL8bk.js",
     "_astro/media.worker-kKRnjvqz.js",
@@ -61,6 +61,7 @@
     "transcribe-recording/index.html",
     "tts-reader/index.html",
     "uninstall.html",
+    "voicetext-logo.svg",
     "youtube-transcript/index.html"
   ]
 }
