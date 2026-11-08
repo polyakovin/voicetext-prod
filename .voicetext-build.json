@@ -1,6 +1,6 @@
 {
   "sourceRepository": "https://github.com/polyakovin/voicetext",
-  "sourceCommit": "258f48ea579c78e74c782fb7408a4cebbf6b5cc5",
+  "sourceCommit": "ea00c3d04351c737ac2fab3eb0c48841ac9762e2",
   "version": "0.1.1",
   "site": "https://voicetext.pro",
   "basePath": "/",
@@ -23,7 +23,7 @@
     "_astro/golos-text-cyrillic-wght-normal.mKek_fSS.woff2",
     "_astro/golos-text-latin-ext-wght-normal.B-I5lbAQ.woff2",
     "_astro/golos-text-latin-wght-normal.BS5oQT7X.woff2",
-    "_astro/index.BSzMeiqH.css",
+    "_astro/index.CiMT-2wF.css",
     "_astro/jsx-runtime.B4Qx-PpP.js",
     "_astro/kokoro-C1zGL8bk.js",
     "_astro/media.worker-kKRnjvqz.js",
@@ -61,7 +61,7 @@
     "transcribe-recording/index.html",
     "tts-reader/index.html",
     "uninstall.html",
-    "voicetext-logo-intro.mp4",
+    "voicetext-intro-frames.webp",
     "voicetext-wordmark.svg",
     "youtube-transcript/index.html"
   ]
